@@ -11,12 +11,6 @@ I'm Vihanga Anuththara, a self-taught Python developer with a passion for web de
 - **Programming Languages:** Python, JavaScript, HTML, CSS
 - **Tools:** Git, VS Code
 
-## Projects
-### Personal Portfolio Website
-- **Description:** My personal portfolio showcasing projects and skills.
-- **Technologies Used:** HTML, CSS, JavaScript
-- **Link:** [GitHub repo](https://vanu888.github.io/VA_Portfolio/)
-
 ## Contact Me
 - **GitHub:** [github.com/vanu888](https://github.com/vanu888)
 - **LinkedIn:** [linkedin.com/in/vihanga-anuththara](https://www.linkedin.com/in/vihanga-anuththara/)
