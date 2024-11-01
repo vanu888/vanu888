@@ -8,7 +8,7 @@ I'm Vihanga Anuththara, a self-taught Python developer with a passion for web de
 - 💬 Ask me about Python, web development, or anything related to programming!
 
 ## Skills
-- **Programming Languages:** Python, C#, JavaScript, HTML, CSS
+- **Programming Languages:** Python, C#
 - **Tools:** Git, VS Code
 
 ## Contact Me
