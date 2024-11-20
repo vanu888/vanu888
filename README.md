@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Vihanga Anuththara<br>a self-taught Python developer with a passion for web design and open-source projects. I enjoy building applications that are both functional and aesthetically pleasing.<br><br>- 🔭 I’m currently working on **improving my skills in Python and web development.**<br><br>- 🗿 I’m looking to collaborate on **open-source projects where I can contribute and learn from others.**<br><br>- 💬 Ask me about **Python, web development, or anything related to programming!**<br><br>- ⚡ Fun fact **I have a deep love for robots and treat them like real human friends. 🤖**
+#### Hi 👋, I'm Vihanga Anuththara<br>a self-taught Python developer with a passion for web design and open-source projects. I enjoy building applications that are both functional and aesthetically pleasing.<br><br>- 🔭 I’m currently working on **improving my skills in Python and web development.**<br><br>- 🗿 I’m looking to collaborate on **open-source projects where I can contribute and learn from others.**<br><br>- 💬 Ask me about **Python, web development, or anything related to programming!**<br><br>- ⚡ Fun fact **I have a deep love for robots and treat them like real human friends. 🤖**
 
 
 ## 🌐 Socials:
