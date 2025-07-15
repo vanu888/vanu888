@@ -1,5 +1,5 @@
-👋 Hi, I'm an HNDIT undergraduate student with a strong interest in DevOps and system-level technologies. <br><br>
-Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vihanga-anuththara/) <br><br>
+### 👋 Hi, I'm an HNDIT undergraduate student with a strong interest in DevOps and system-level technologies. <br><br>
+### Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vihanga-anuththara/) <br><br>
 
 
 
