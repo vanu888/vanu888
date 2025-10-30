@@ -1,9 +1,9 @@
-### 👋 Hi, I'm an HNDIT undergraduate student with a strong interest in DevOps and system-level technologies. <br><br>
+### 👋 HNDIT Student | Building Skills in Software Engineering & DevOps <br><br>
 ### Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vihanga-anuththara/) <br><br>
 
 
 
-Aspiring DevOps Engineer | Linux User | Python & Java Learner | Command Line Enthusiast
+Linux User | Python & Java Learner | Command Line Enthusiast
 ---
 
 🧠 Currently Learning
