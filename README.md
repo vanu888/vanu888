@@ -8,7 +8,6 @@ Aspiring DevOps Engineer | Linux User | Python & Java Learner | Command Line Ent
 
 🧠 Currently Learning
 - Python scripting & automation
-- Java basics and OOP
 - Linux system administration (Linux user)
 - Shell scripting & CLI tools
 - Git, GitHub, and project documentation
@@ -18,7 +17,7 @@ Aspiring DevOps Engineer | Linux User | Python & Java Learner | Command Line Ent
 
 🛠️ Tools I Use
 - OS: MX Linux, Debian
-- Languages: Python, Java (basic), Bash
+- Languages: Python, Java, Bash
 - Editors: Micro, Nano, VS Code
 - Tools: Git, VirtualBox
 - Workflow: CLI-based navigation, automation scripts
