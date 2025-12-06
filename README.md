@@ -29,7 +29,6 @@ Linux User | Python & Java Learner | Command Line Enthusiast
 ##
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-contributor-stats.vercel.app/api?username=vanu888&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Contributor Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanu888&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="49%">
 </div>
 
  
@@ -37,4 +36,4 @@ Linux User | Python & Java Learner | Command Line Enthusiast
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
