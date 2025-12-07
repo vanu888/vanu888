@@ -28,7 +28,7 @@ Linux User | Python & Java Learner | Command Line Enthusiast
 
 ##
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vanu888&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Contributor Stats" width="49%">
+  <img src="https://github-contributor-stats.vercel.app/api?username=vanu888&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Contributor Stats" width="60%">
 </div>
 
  
