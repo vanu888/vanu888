@@ -72,15 +72,6 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanu888&theme=react" width="100%"/>
-  </a>
-</div>
-
-<br>
-
 <div align="center">
   <sub>Let's connect and build something awesome!</sub>
 </div>
