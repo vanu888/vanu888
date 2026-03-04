@@ -39,7 +39,7 @@
     <td width="50%" valign="top">
       <h3>🛠️ My Environment</h3>
       <ul>
-        <li><b>OS:</b> MX Linux, Debian</li>
+        <li><b>OS:</b> Linux, Windows</li>
         <li><b>Editors:</b> VS Code, Micro, Nano</li>
         <li><b>Virtualization:</b> VirtualBox, Docker (Learning)</li>
         <li><b>Workflow:</b> CLI-First, Git-based version control</li>
