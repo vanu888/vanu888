@@ -1,13 +1,13 @@
 <div align="center">
  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Vihanga+Anuththara;HNDIT+Student;DevOps+Enthusiast;Linux+%26+Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Vihanga+Anuththara;HNDIT+Student;Backend+Enthusiast;Linux+%26+Open+Source+Lover" alt="Typing SVG" />
   
   <br>
 
-  <h3>🚀 Building Scalable Solutions & Automating the Boring Stuff</h3>
+  <h3>🎓 HNDIT Student | Software Development Enthusiast</h3>
   
   <p>
-    <b>Linux User</b> | <b>Python & Java Developer</b> | <b>CLI Native</b>
+    <b>Building Scalable Solutions & Automating the Boring Stuff</b>
   </p>
 
   <a href="https://www.linkedin.com/in/vihanga-anuththara/">
@@ -23,26 +23,26 @@
 
 ---
 
-### ⚡ What I'm Working On
+### ⚡ Professional Focus
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Currently Learning</h3>
+      <h3>🧠 Current Focus</h3>
       <ul>
-        <li>🐍 <b>Python Automation:</b> Scripting real-world tasks.</li>
-        <li>🐧 <b>Linux SysAdmin:</b> Mastering permissions, processes & the kernel.</li>
-        <li>🛡️ <b>Cybersecurity:</b> Understanding vulnerabilities & defense.</li>
-        <li>🐚 <b>Shell Scripting:</b> Automating workflows with Bash.</li>
+        <li>🛠️ <b>Final Year Project:</b> Developing a web application using <b>React</b> & <b>Django</b>.</li>
+        <li>🐍 <b>Python:</b> Focusing on Backend development & Automation.</li>
+        <li>🐚 <b>Scripting:</b> Mastering Bash & Shell workflows.</li>
+        <li>🐧 <b>Linux:</b> System administration & CLI-first environment.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🛠️ My Environment</h3>
       <ul>
-        <li><b>OS:</b> Linux, Windows</li>
+        <li><b>OS:</b> Arch Linux (Primary), Windows</li>
+        <li><b>Shell:</b> Zsh / Bash</li>
         <li><b>Editors:</b> VS Code, Micro, Nano</li>
-        <li><b>Virtualization:</b> VirtualBox, Docker (Learning)</li>
-        <li><b>Workflow:</b> CLI-First, Git-based version control</li>
+        <li><b>Tools:</b> Git, GitHub, Docker (Learning)</li>
       </ul>
     </td>
   </tr>
@@ -52,36 +52,41 @@
 
 ### 💻 The Tech Stack
 
-<div align="center">
+**Web Development**
+<div align="left">
+  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+**Programming & Scripting**
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+
+**Data Science & Others**
+<div align="left">
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=WordPress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </div>
 
 <br>
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanu888&theme=radical&hide_border=true" alt="GitHub Streak">
-
 </div>
 
 ---
 
 <div align="center">
-  <sub>Let's connect and build something awesome!</sub>
+  <sub>Stay curious and keep coding!</sub>
 </div>
