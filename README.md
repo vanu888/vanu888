@@ -86,8 +86,11 @@
 </div>
 
 ---
+
 <div align="center">
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B21ZJNDF)
+  <a href="https://ko-fi.com/B0B21ZJNDF" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" height="36" />
+  </a>
 </div>
 
 <div align="center">
