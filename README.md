@@ -86,6 +86,9 @@
 </div>
 
 ---
+<div align="center">
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B21ZJNDF)
+</div>
 
 <div align="center">
   <sub>Stay curious and keep coding!</sub>
